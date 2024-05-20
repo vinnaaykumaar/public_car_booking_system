@@ -24,7 +24,7 @@ User Interface:
 --------------------
 Console-based interface for user interaction
 
-*********Object-Oriented Design*********************
+Object-Oriented Design
 
 
 Prerequisites
